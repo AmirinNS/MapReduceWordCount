@@ -20,3 +20,4 @@ jar -cvf WordCount.jar -C WCclass /
 ```
 hadoop jar WordCount.jar WordCount /user/mapreduce /user/mapreduce/output
 ```
+* Watch [Youtube](https://youtu.be/-_sGAgP7ByQ) - BigData Analytics : MapReduce Wordcount
